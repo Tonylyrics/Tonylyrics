@@ -9,6 +9,6 @@ Tonylyrics/Tonylyrics is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-animal="cow"
-Joke="why did the "+animal+"cross the road"
+*animal="cow"
+Joke="why did the"+animal+"cross the road"
 Print(joke)
